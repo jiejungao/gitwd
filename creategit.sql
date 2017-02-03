@@ -20,3 +20,9 @@ git init
 -- 
 git add <your file name>
 git commit -m 'your comments'
+
+
+-- 查看更改项 
+git diff 
+git status 
+git log -- 查看更改历史   commit id 
