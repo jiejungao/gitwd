@@ -16,3 +16,7 @@ brew list
 $ mkdir learngit
 --通过git init命令把这个目录变成Git可以管理的仓库：
 git init 
+
+-- 
+git add <your file name>
+git commit -m 'your comments'
